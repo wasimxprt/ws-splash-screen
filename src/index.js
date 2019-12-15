@@ -1,5 +1,4 @@
 import React from "react";
-import css from './splash.css';
 
 const WSPlashScreen = props => {  
   let splashStyles = {
